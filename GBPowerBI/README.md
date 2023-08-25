@@ -56,5 +56,8 @@ __Семинары__
     + [ArcGIS Maps for Power BI](/GBPowerBI/003/003.md#arcgis-maps-for-power-bi)
 + [Таблицы](/GBPowerBI/003/003.md#таблицы)
 + [Сложные для восприятия элементы](/GBPowerBI/003/003.md#сложные-для-восприятия-элементы)
++ [Домашняя работа](/GBPowerBI/003/003.md#домашняя-работа)
++ [Ссылка на файл ДЗ в формате pbix](/GBPowerBI/003/HomeWork2.pbix)
++ [Ссылка на файл ДЗ в формате pdf](/GBPowerBI/003/HomeWork2.pdf)
 
 ## 
