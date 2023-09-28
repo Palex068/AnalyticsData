@@ -1,3 +1,5 @@
 # Содержание
 
-[GB введение в BI](/GBPowerBI/README.md)
+[GB Введение в BI](/GBPowerBI/README.md)
+
+[GB Основы моделирования бизнес-процессов](/GBBusinessProcessModeling/README.md)
