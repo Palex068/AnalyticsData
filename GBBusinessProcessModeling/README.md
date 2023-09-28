@@ -17,7 +17,7 @@
     + [Какие бывают операционные модели?](/GBBusinessProcessModeling/001.md#какие-бывают-операционные-модели)
     + [Элементы операционной модели](/GBBusinessProcessModeling/001.md#элементы-операционной-модели)
 + [Бизнес-процессы](/GBBusinessProcessModeling/001.md#бизнес-процессы)
-+ [Домашнее задание](/GBBusinessProcessModeling/001.md#домашнее-задание)
++ [Домашнее задание (Лекция)](/GBBusinessProcessModeling/001.md#домашнее-задание-лекция)
 + [Рекомендуемая  и использованная литература](/GBBusinessProcessModeling/001.md#рекомендуемая-и-использованная-литература)
 + [Работа на семинаре](/GBBusinessProcessModeling/001.md#работа-на-семинаре)
     + [Викторина](/GBBusinessProcessModeling/001.md#викторина)
