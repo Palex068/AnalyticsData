@@ -6,7 +6,7 @@
 
 ![001](/GBBusinessProcessModeling/Pictures/001_018.PNG)
 
-## Содержание курса
+# Содержание курса
 
 ## [Введение в операционную модель](/GBBusinessProcessModeling/001.md)
 
@@ -23,3 +23,20 @@
     + [Викторина](/GBBusinessProcessModeling/001.md#викторина)
     + [Разберите компанию на элементы операционной модели.](/GBBusinessProcessModeling/001.md#разберите-компанию-на-элементы-операционной-модели)
 + [Домашнее задание](/GBBusinessProcessModeling/001.md#домашнее-задание)
+
+## [Введение в бизнес-процессы](/GBBusinessProcessModeling/002.md)
+
++ [Основные термины](/GBBusinessProcessModeling/002.md#основные-термины)
++ [Введение](/GBBusinessProcessModeling/002.md#введение)
++ [Бизнес-процессы](/GBBusinessProcessModeling/002.md#бизнес-процессы)
++ [Характеристики бизнес-процессов](/GBBusinessProcessModeling/002.md#характеристики-бизнес-процессов)
++ [Типы бизнес-процессов](/GBBusinessProcessModeling/002.md#типы-бизнес-процессов)
++ [Процессы в компаниях](/GBBusinessProcessModeling/002.md#процессы-в-компаниях)
+    + [Зачем нужно управлять бизнес-процессами](/GBBusinessProcessModeling/002.md#зачем-нужно-управлять-бизнес-процессами)
+    + [Как управлять бизнес-процессами](/GBBusinessProcessModeling/002.md#как-управлять-бизнес-процессами)
+    + [Потребитель бизнес-процесса](/GBBusinessProcessModeling/002.md#потребитель-бизнес-процесса)
++ [Назначение процессного моделирования](/GBBusinessProcessModeling/002.md#назначение-процессного-моделирования)
+    + [Оптимизация бизнес-процессов](/GBBusinessProcessModeling/002.md#оптимизация-бизнес-процессов)
+    + [Пример кейса](/GBBusinessProcessModeling/002.md#пример-кейса)
+    + [Какой итог от улучшения процесса?](/GBBusinessProcessModeling/002.md#какой-итог-от-улучшения-процесса)
++ [Рекомендуемая и использованная литература](/GBBusinessProcessModeling/002.md#рекомендуемая-и-использованная-литература)
