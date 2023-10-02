@@ -41,3 +41,5 @@
 + [Пример кейса](/GBBusinessProcessModeling/002.md#пример-кейса)
     + [Какой итог от улучшения процесса?](/GBBusinessProcessModeling/002.md#какой-итог-от-улучшения-процесса)
 + [Рекомендуемая и использованная литература](/GBBusinessProcessModeling/002.md#рекомендуемая-и-использованная-литература)
++ [Работа на семинаре](/GBBusinessProcessModeling/002.md#работа-на-семинаре)
++ [Домашняя работа](/GBBusinessProcessModeling/002.md#домашняя-работа)
