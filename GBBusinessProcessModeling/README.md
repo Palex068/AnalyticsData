@@ -43,3 +43,7 @@
 + [Рекомендуемая и использованная литература](/GBBusinessProcessModeling/002.md#рекомендуемая-и-использованная-литература)
 + [Работа на семинаре](/GBBusinessProcessModeling/002.md#работа-на-семинаре)
 + [Домашняя работа](/GBBusinessProcessModeling/002.md#домашняя-работа)
+
+## [Декомпозиция процессов](/GBBusinessProcessModeling/003.md)
+
+
